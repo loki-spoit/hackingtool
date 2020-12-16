@@ -1,3 +1,30 @@
+#### INSTALL
+#### This Tool Must Run As ROOT !!!
+
+    git clone https://github.com/loki-spoit/hackingtool
+    
+    chmod -R 755 hackingtool  
+    
+    cd hackingtool
+    
+    sudo pip3 install -r requirement.txt
+    
+    bash install.sh
+    
+    sudo hackingtool
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### All in One Hacking tool 
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
@@ -206,7 +233,7 @@
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/Z4nzu/hackingtool.git
+    git clone https://github.com/loki-spoit/hackingtool
     
     chmod -R 755 hackingtool  
     
