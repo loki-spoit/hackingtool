@@ -1,4 +1,4 @@
-### All in One Hacking tool For Hackers🥇
+### All in One Hacking tool 
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
@@ -11,7 +11,7 @@
 
 #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I)
 
-## Update Available V1.1.0 🚀 
+## Update Available V2.1.2 🚀 
 - [x] Added New Tools 
     - [x] Reverse Engineering
     - [x] RAT Tools
